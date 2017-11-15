@@ -7,6 +7,9 @@ import matplotlib.pyplot as plt
 
 def getinfo():
     
+    
+    #zheshiyigexiugai
+    
     area_list = []
     
     no2_list = []
